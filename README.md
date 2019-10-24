@@ -5,7 +5,7 @@
 [最新版](https://github.com/NitRogeeen/NitRoShader/releases/latest)
 
 ## 使い方
-NitRoShader.unitypackageをImportしてください。
+NitRoShader.unitypackageをプロジェクトにImportしてください。
 
 ## 説明
 1. EmissiveIceShader
