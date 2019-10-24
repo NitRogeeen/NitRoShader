@@ -21,8 +21,7 @@ NitRoShader.unitypackageをImportしてください。
 6. WarterObject
  うねうねします。水っぽい見た目になります。
 
-以下実用に向かないもの。.unitypackageにも入っていません。
-.shaderファイルはあるけど…。
+### 以下実用に向かないもの。.unitypackageにも入っていません。
 7. RayMarching各種
  学習目的で書いたものです。実用に向きません。
  形状関数ﾜｶﾗﾝ。
