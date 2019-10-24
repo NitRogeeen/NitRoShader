@@ -10,6 +10,7 @@ NitRoShader.unitypackageをプロジェクトにImportしてください。
 ## 説明
 1. EmissiveIceShader  
  縁が光ったり光らなかったりします。  
+ （Emissionに黒以外の色を設定すると光ります。アニメーションするわけではないです。）  
  中心部は透明です。
 2. Pixcelation  
  メッシュの向こう側の景色にモザイクをかけます。
