@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: NitRoShader_UVRotate
+  m_Shader: {fileID: 4800000, guid: 28ea3d0e151a62c4fa3eee8cc94e0aa8, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Mask:
+        m_Texture: {fileID: 2800000, guid: 9c128d11db96e884aade84328280cb2c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Rotate:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _RotateMask:
+        m_Texture: {fileID: 2800000, guid: cab612364ada89a49a2145fd38ccf327, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture:
+        m_Texture: {fileID: 2800000, guid: b0f0845e2386f95428e7f657413437fd, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample0:
+        m_Texture: {fileID: 2800000, guid: cab612364ada89a49a2145fd38ccf327, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample2:
+        m_Texture: {fileID: 2800000, guid: cab612364ada89a49a2145fd38ccf327, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Float0: -1
+    - _Opacity: 1
+    - _Speed: 1
+    - _SpeedB: 1
+    - _SpeedG: 1
+    - _SpeedR: -1
+    - __dirty: 0
+    m_Colors:
+    - _An: {r: 0.5, g: 0.5, b: 0, a: 0}
+    - _Anc: {r: 0.5, g: 0.5, b: 0, a: 0}
+    - _Anchor: {r: 0.5, g: 0.5, b: 0, a: 0}
+    - _AnchorB: {r: 0.5, g: 0.5, b: 0, a: 0}
+    - _AnchorG: {r: 0.5, g: 0.5, b: 0, a: 0}
+    - _AnchorR: {r: 0.5, g: 0.5, b: 0, a: 0}
+    - _Emission: {r: 1, g: 0, b: 0, a: 0}
+    - _Vector0: {r: 0, g: 0, b: 0, a: 0}
