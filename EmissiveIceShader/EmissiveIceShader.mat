@@ -19,13 +19,13 @@ Material:
     serializedVersion: 3
     m_TexEnvs: []
     m_Floats:
-    - _AlphaLevel: 1.5
+    - _AlphaLevel: 1.07
     - _ChromaticAberration: 0.1
     - _Float0: 14.2
     - _Level: 1.5
     - __dirty: 0
     m_Colors:
-    - _Albedo: {r: 1, g: 1, b: 1, a: 0}
+    - _Albedo: {r: 0, g: 0, b: 0, a: 0}
     - _Color0: {r: 1, g: 0, b: 0, a: 0}
-    - _Emission: {r: 1, g: 1, b: 1, a: 0}
+    - _Emission: {r: 1, g: 0, b: 0, a: 0}
     - _test: {r: 0.9117647, g: 0.08715395, b: 0.08715395, a: 0.728}
